@@ -23,7 +23,7 @@ module.exports = {
       address: {
         type: Sequelize.STRING
       },
-      genser: {
+      gender: {
         type: Sequelize.BOOLEAN
       },
       roleId: {
